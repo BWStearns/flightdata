@@ -82,10 +82,22 @@ It turns out that in the islands clouds like to sit above land during the day, a
 
 ![Exuma International](./exuma_from_air.jpg)
 
-After passing Andros we hardly saw another cloud as we approached Exuma. I called the tower about 10 miles out to request landing and weather. We were in luck and the wind was basically right down the runway at a decent 15 knots. One thing to consider when landing here is that there is only one taxiway that leads off the runway and it is basically in the middle of this 7,000 foot runway. If you make a nice clean landing right by the numbers you're going to be taxiing on and occupying the runway for a while, so maybe land a bit later if your plane doesn't need that much runway. I thought of this too late on my first landing so I just didn't use brakes and tried to hustle as fast as was safe to the exit.
+After passing Andros we hardly saw another cloud as we approached Exuma. I called the tower about 10 miles out to request landing and weather. We were in luck and the wind was basically right down the runway at a decent 15 knots. The runway is in great shape, but there is only one taxiway off the 7,000 foot runway and it is right in the middle. If you make a nice clean landing right by the numbers you're going to be taxiing on and occupying the runway for a while, so maybe land a bit later if your plane doesn't need that much runway. I thought of this too late on my first landing so I just didn't use brakes and tried to hustle as fast as was safe to the exit.
 
 ![Exuma final](./exuma_landing.mp4)
 
 ![Safely at Exuma](./claire_at_exuma.png)
 
+A line guy from Odyssey helped us find a spot to tie up and got us a cart to grab our luggage and we headed into the FBO. Customs and immigration were a breeze, they got our cruising permit ready, and then they got us a cab to the hotel.
 
+We flew up to Staniel Cay the next day (remember to get your cruising permit from the FBO before departure) and it has to be one of the most beautifully situated airports in the world. The flight up there is beautiful as well, we flew around 1500 feet to be able to look at all the little bays and islands, most of which have at least a gravel runway somewhere on them if we were to run into trouble. I definitely recommend visiting Staniel if you're flying around the islands. The only thing to be wary of is that there can be a strong crosswind. We had 15-20kts wind about 60° off runway heading. According to a local pilot that is somewhat typical.
+
+A couple days later it was time to fly home. We settled up at the FBO, outbound customs, and packed our luggage onto the plane. We even remembered to put on our life jackets before boarding this time. We had filed our eAPIS the night before, but I had trouble filing the flight plan via ForeFlight and eventually gave up and decided to file it from the air. Next we attempted to call Ft Pierce to give them a heads up and get a code (as per the Bahamas flying guide). After struggling to reach them via phone it turns out that this step is unnecessary for Ft Pierce specifically. If your destination is a different airport then they may require it.
+
+We departed about 40 minutes late but we could still make it back to St Augustine before sunset. The first leg back to KFPR was smooth as could be with hardly a cloud in the sky. We filed our flight plan from the air and climbed to 8,500 feet and just cruised.
+
+At Ft Pierce we went through customs and got some fuel. We were hoping for lunch after 3 hours of flying but the restaurant had closed early, so Snickers would suffice. Now my flight bag has emergency beef jerky for such occasions. While enjoying our snickers I was getting a little concerned about the last leg of the trip. There was a convective SIGMET that ended just north of St Augustine, and the radar didn't look great.
+
+We decided to try to make it with the understanding we might have to park the plane for the night if the weather turned out rough. We [made it as far as](https://flightaware.com/live/flight/N4886L/history/20220417/1903Z/KFPR/KFIN) Flagler Executive (KFIN) before we called it quits, but we were within Uber range of home so we made it back. The next day I Ubered back to KFIN and flew it the last twenty minutes back to St Augustine.
+
+![So close...](./defeat.jpg)
