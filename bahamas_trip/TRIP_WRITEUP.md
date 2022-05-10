@@ -6,7 +6,7 @@ If you're flying in Florida then the thought of taking a trip out to the Bahamas
 
 ### Choosing a Route
 
-First up is to pick a destination. Me and my wife Claire wanted to go somewhere a bit wild and less developed than Nasssau and after talking a bit with very experience island flyer [Galin Hernandez](http://www.puertoricoflyer.com/), we settled on heading to the Exumas. We would land at Exuma International (MYEF) and get a hotel there for the long weekend, and then fly up the Exumas for a day trip to [Staniel Cay](https://stanielcay.com/activities/) to rent a boat and see the swimming pigs and the Thunderball Grotto.
+First up is to pick a destination. Me and my wife Claire wanted to go somewhere a bit wild and less developed than Nasssau and after talking a bit with very experienced island flyer [Galin Hernandez](http://www.puertoricoflyer.com/), we settled on heading to the Exumas. We would land at Exuma International (MYEF) and get a hotel there for the long weekend, and then fly up the Exumas for a day trip to [Staniel Cay](https://stanielcay.com/activities/) to rent a boat and see the swimming pigs and the Thunderball Grotto.
 
 ![Staniel Cay from the Air](./staniel_downwind.jpg)
 
